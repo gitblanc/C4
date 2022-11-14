@@ -67,12 +67,12 @@ button[value="hyp"]{
     color: white;
 }
 
-/*especifidad:011*/
-label[for="pantalla"] {
+/*especifidad:001*/
+label {
     grid-column-start: 1;
     grid-column-end: 6;
     grid-row-end: 1;
     text-align: left;
-    background-color: black;
-    color: white;
+    color: rgb(255, 255, 255);
+    background-color: rgba(248, 248, 248, 0);
 }
