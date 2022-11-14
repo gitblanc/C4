@@ -17,8 +17,9 @@ h1 {
 /*especifidad 001*/
 button {
     font-size: 1.2em;
-    background-color: rgb(175, 175, 175);
-    color: black;
+    background-color: rgb(75,75,75);
+    border-radius: 0.3em;
+    color: white;
 }
 
 /*especifidad:001*/
@@ -29,13 +30,13 @@ input {
     grid-column-end: 6;
     grid-row-start: 2;
     grid-row-end: 1;
-    background-color: #99dcdf;
+    background-color: #adfbff;
     color: #000000;
 }
 
 /*especifidad:001*/
 form {
-    background-color: rgb(212, 212, 212);
+    background-color: #000000;
     position: absolute;
     left: 27%;
     display:grid;
@@ -52,5 +53,5 @@ label[for="pantalla"] {
     grid-column-end: 6;
     grid-row-end: 1;
     text-align: left;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
