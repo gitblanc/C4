@@ -71,5 +71,5 @@ label[for="pantalla"] {
     grid-column-end: 6;
     grid-row-end: 1;
     text-align: left;
-    color: rgb(255, 255, 255);
+    color: white;
 }
