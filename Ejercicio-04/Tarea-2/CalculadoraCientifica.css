@@ -2,8 +2,10 @@
 
 /*especifidad: 001*/
 body {
-    color: #000000 ;
-    background-color: #ffffff;
+    width: 60%;
+    margin: 5%;
+    font-size: 100%;
+    color:black;
     text-align: center;
 }
 
