@@ -48,6 +48,24 @@ form {
 }
 
 /*especifidad:011*/
+button[value="deg"]{
+    grid-column: span 2;
+    font-size: 1.2em;
+    background-color: rgb(75,75,75);
+    border-radius: 0.3em;
+    color: white;
+}
+
+/*especifidad:011*/
+button[value="hyp"]{
+    grid-column: span 2;
+    font-size: 1.2em;
+    background-color: rgb(75,75,75);
+    border-radius: 0.3em;
+    color: white;
+}
+
+/*especifidad:011*/
 label[for="pantalla"] {
     grid-column-start: 1;
     grid-column-end: 6;
