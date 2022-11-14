@@ -46,8 +46,8 @@ form {
     padding: 2em;
 }
 
-/*especifidad:021*/
-label[type=text][name='uo']{
+/*especifidad:011*/
+label[for="pantalla"] {
     grid-column-start: 1;
     grid-column-end: 6;
     grid-row-end: 1;
